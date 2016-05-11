@@ -119,7 +119,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2016-05-11 11:48:36.765270", 
+ "modified": "2016-05-11 11:57:32.847245", 
  "modified_by": "Administrator", 
  "module": "Release Test", 
  "name": "Release Testing Information", 
@@ -150,5 +150,6 @@
  "read_only": 0, 
  "read_only_onload": 0, 
  "sort_field": "modified", 
- "sort_order": "DESC"
+ "sort_order": "DESC", 
+ "title_field": "release_name"
 }
