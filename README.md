@@ -6,6 +6,7 @@ Testing bench release
 2
 3
 4
+5
 
 Trying out bench release command on this app
 
