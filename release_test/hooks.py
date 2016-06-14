@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
+from . import __version__ as app_version
 
 app_name = "release_test"
 app_title = "Release Test"
@@ -8,7 +9,6 @@ app_description = "Release Test"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "revant@revant.me"
-app_version = "1.0.2"
 app_license = "GPL v3"
 
 # Includes in <head>
