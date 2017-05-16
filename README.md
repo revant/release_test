@@ -7,6 +7,8 @@ Testing bench release
 3
 4
 5
+6
+Changed version
 
 Trying out bench release command on this app
 
